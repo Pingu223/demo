@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Khyaroscuro(?) Khiaroskuro(?)"
 description: "A description."
 hideBackToTop: false
 hidePagination: true
@@ -7,4 +7,12 @@ hidePagination: true
 
 # About
 
-this is a viewable page on the blog
+Kiaroscuro is a project in which we hope everyone can find something for themselves. Through our work here we would like to show others that (..)
+
+featuring ==(doesnt sound right)== social criticism and fiction ==(or social critiscism in the form of fiction/prose/short stories/thoughts==. Kiaroscuro in essence is a cabinet of thoughts that were put into (prose? sounds a bit too fancy)... ==(to be continued)==
+
+
+
+# Concepts
+
+All of the writing on Kiaroscuro is set in the fictional world of (name of world) (..) (maybe?)
