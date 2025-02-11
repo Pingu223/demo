@@ -1,21 +1,41 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Welcome to Kiaroscuro(?) Kyaroscuro (?) Kjaroskuro (?) Noctilux(?)'
 theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
 
 [params]
-description = "A exmaple blog"
+description = "Intellectual community lmao"
 
 theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
 
-homeIntroTitle = 'Hi'
+homeIntroTitle = 'Mankind, Be Vigilant. We Love(d) You'
 homeIntroContent = """
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Kiaroscuro is a website ==(strongly avoding the word "blog" here, open to suggestions)==
+
+Right so here we go, description: Kiaroscuro is a portal ==(community?)== featuring ==(doesnt sound right)== social criticism and fiction ==(or social critiscism in the form of fiction/prose/short stories/thoughts?)==. Kiaroscuro in essence is a cabinet of thoughts that were put into (prose? sounds a bit too fancy)... ==(to be continued)==
+
+you know what? We need to ponder on WILL this thing actually be, we managed to get this shit going so quick i didint really have time to th0nk on all this.
+
+to do:
+
+-begin the creative **PRÖCESS**
+ 
+-show me had to add new posts
+
+-show me how to highlight things? like in yellow, just change text colours to be able to seperate ideas from actual things on the website</p>
+
+-add paragraph spaces (think i got it?)
+
+-have a drunk brainstorm crunch
+
+-remove herobrine 
+
+
 """
 
 homeCollectionTitle = 'Posts'
